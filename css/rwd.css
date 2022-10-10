@@ -1,9 +1,0 @@
-@media (max-width: 480px) {
-  .projects {
-    padding: 6rem 1rem;
-  }
-
-  .grid-container {
-    grid-template-columns: 1fr;
-  }
-}
