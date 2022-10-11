@@ -1,0 +1,43 @@
+@media (max-width: 575px) {
+}
+
+@media (max-width: 840px) {
+  .text {
+    font-size: 12px;
+    line-height: 1;
+  }
+  .container {
+    padding-bottom: 32px;
+    padding-top: 32px;
+    width: auto;
+  }
+  .navbar {
+    font-size: 9px;
+  }
+  .project-header {
+    font-size: 17px;
+  }
+  .project-image {
+    width: auto;
+    height: 100px;
+  }
+  .project-name {
+    font-size: 10px;
+  }
+  .row {
+    margin: 25px 0 5px 20px;
+  }
+
+  .contact-link {
+    font-size: 15px;
+  }
+}
+@media (min-width: 1200px) {
+  html {
+    font-size: 60%;
+  }
+  .container {
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+  }
+}
